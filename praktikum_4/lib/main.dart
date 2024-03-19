@@ -97,7 +97,7 @@ class MyApp extends StatelessWidget {
                   ),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [Text("Kelas "), Text("IF TI1-09")],
+                    children: [Text("Kelas "), Text("IF TI2-09")],
                   ),
                   SizedBox(
                     height: 15,
